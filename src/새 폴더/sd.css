@@ -1,0 +1,9 @@
+.SignUp{
+    background: linear-gradient(to bottom, salmon, plum);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 15px;
+    background-color: red;
+}
